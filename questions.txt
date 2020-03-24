@@ -1,0 +1,18 @@
+What is the difference between an adaptive website and a fully responsive website?
+
+-Responsive Web Design provides the optimal viewing experience of a website, no matter what type of device the user is seeing it on.
+Adaptive web design is different from responsive design in that there isn’t one layout that always changes. 
+So a responsive website would be able to move to moblie and it would adujust to it. The adaptive could do that to but it wouldn't look so good. You would have to shrink in on everything and it would be a pain to deal with.
+
+Describe what it means to be mobile first vs desktop first.
+
+-I would say its about who is using what more computer vs moblie (phone, tablet) Alot more people have moblie things then desktops. So its really how you start your design, big to small or small to big.
+
+What does font-size: 62.5% in the html tag do for us when using rem units?
+-it makes the font 1.6rem and thats the default font size.
+
+How would you describe preprocessing to someone new to CSS?
+-it gives you the ability to nest like in html 
+
+What is your favorite concept in preprocessing? What is the concept that gives you the most trouble?'
+-My favorite would be nesting. The most trouble would be mixins.
